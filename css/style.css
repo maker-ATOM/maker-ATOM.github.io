@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(255, 144, 0, 0.9);
+  background: rgba(0, 179, 179, 0.9);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -267,7 +267,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: 400;
   color: #fff;
 }
-#fh5co-features .feature-left p {
+#fh5co-features .feature-left p {i
   font-size: 16px;
   color: rgba(255, 255, 255, 0.7);
 }
@@ -279,7 +279,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-about,
-#fh5co-resume,
+
 #fh5co-skills,
 #fh5co-started,
 #fh5co-work,
@@ -288,6 +288,13 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-contact {
   padding: 7em 0;
   clear: both;
+  background-color: #e6ffff 
+}
+
+#fh5co-resume {
+  padding: 7em 0;
+  clear: both;
+  background-color: #e6ffff 
 }
 @media screen and (max-width: 768px) {
   #fh5co-about,
@@ -335,14 +342,14 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-top: 0;
 }
 .info li .first-block {
-  width: 40%;
+  width: 33%;
   display: inline-block;
   float: left;
   color: #000;
   font-weight: bold;
 }
 .info li .second-block {
-  width: 60%;
+  width: 67%;
   display: inline-block;
   color: rgba(0, 0, 0, 0.5);
 }
