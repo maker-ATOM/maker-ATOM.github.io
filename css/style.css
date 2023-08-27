@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #FF9000;
+  background: #db76ff;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #FF9000;
+  background: #db76ff;
 }
 
 ::selection {
   color: #fff;
-  background: #FF9000;
+  background: #db76ff;
 }
 
 #fh5co-header,
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 180, 180, 0.8);
+  background: rgba(0, 180, 180, 0.4);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
