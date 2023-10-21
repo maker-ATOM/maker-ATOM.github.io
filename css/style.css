@@ -703,6 +703,7 @@ h1, h2, h4, h5, h6, figure {
 }
 
 #fh5co-resume .timeline-body p {
+  /* text-align:right; */
   color: #f3f4f4; /* Replace with your desired font color */
 }
 
