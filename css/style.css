@@ -814,7 +814,7 @@ h1, h2, h4, h5, h6, figure {
 }
 
 .vertical{
-  margin-top: 15px;
+  margin-top: 19px;
 }
 
 
@@ -1481,7 +1481,7 @@ input[type="text"] {
 }
 
 .col-padding {
-  padding: 6px !important;
+  padding: 10px !important;
   margin: 0px !important;
 }
 
